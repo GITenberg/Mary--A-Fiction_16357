@@ -1,0 +1,32 @@
+_repo: Mary--A-Fiction_16357
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wollstonecraft, Mary
+    aliases:
+    - Cresswick, Mr.
+    - Godwin, Mary Wollstonecraft
+    birthdate: 1759
+    deathdate: 1797
+    gutenberg_agent_id: '84'
+    url: http://www.gutenberg.org/2009/agents/84
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Wollstonecraft
+description: ''
+gutenberg_issued: '2005-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16357'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'Women -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Feminist fiction'
+title: 'Mary: A Fiction'
+url: http://www.gutenberg.org/ebooks/16357
